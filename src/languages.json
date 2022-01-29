@@ -1,0 +1,26 @@
+{
+    "English":
+    {
+        "formLang": "Language",
+        "form1txt": "1st sentence",
+        "form2txt": "2nd sentence",
+        "formSubmit": "Generate",
+        "vowels": ["a", "e", "i", "o", "u"]
+    },
+    "Polish":
+    {
+        "formLang": "Język",
+        "form1txt": "1 zdanie",
+        "form2txt": "2 zdanie",
+        "formSubmit": "Generuj",
+        "vowels": ["a", "e", "i", "o", "u", "y"]
+    },
+    "Binary":
+    {
+        "formLang": "01001100 01100001 01101110 01100111 01110101 01100001 01100111 01100101",
+        "form1txt": "00110001 01110011 01100101 01101110 01110100 01100101 01101110 01100011 01100101",
+        "form2txt": "00110010 01110011 01100101 01101110 01110100 01100101 01101110 01100011 01100101",
+        "formSubmit": "01000111 01100101 01101110 01100101 01110010 01100001 01110100 01100101",
+        "vowels": ["1"]
+    }
+}
